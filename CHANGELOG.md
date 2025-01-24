@@ -1,5 +1,13 @@
 # Changelog
 
+## [2.15.1](https://github.com/folke/snacks.nvim/compare/v2.15.0...v2.15.1) (2025-01-24)
+
+
+### Bug Fixes
+
+* **picker:** stopinsert again ([2250c57](https://github.com/folke/snacks.nvim/commit/2250c57529b1a8da4d96966db1cd9a46b73d8007))
+* **win:** don't destroy opts. Fixes [#726](https://github.com/folke/snacks.nvim/issues/726) ([473be03](https://github.com/folke/snacks.nvim/commit/473be039e59730b0554a7dfda2eb800ecf7a948e))
+
 ## [2.15.0](https://github.com/folke/snacks.nvim/compare/v2.14.0...v2.15.0) (2025-01-23)
 
 
